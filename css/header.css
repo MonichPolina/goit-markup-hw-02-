@@ -1,0 +1,9 @@
+.navigation:hover,
+.navigation:focus {
+    letter-spacing: 0.02em;
+     color: #404bbf;
+
+}
+.Studio-logo{
+    color: #f4f4fd;
+}

@@ -9,10 +9,14 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 .hero-btn:hover,
 .hero-btn:focus{
     background: #404bbf;
+    cursor: pointer;
 }
 #hero{
     background: #2e2f42;
 }
 .hero-title{
+    text-align: center;
+    font-size: 56px;
+    letter-spacing: 0.02em;
     color: #fff;
 }

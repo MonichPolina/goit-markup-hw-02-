@@ -1,3 +1,17 @@
 body{
     font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+    background-color: #fff;
+    list-style: none
+}
+
+.Studio-logo{
+    color: #4d5ae5;
+}
+.main-title:hover,
+.main-title:focus{
+    color: #404bbf;
+}
+ul{
+    list-style-type: none
 }
