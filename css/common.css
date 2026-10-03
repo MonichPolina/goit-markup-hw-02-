@@ -2,16 +2,38 @@ body{
     font-family: "Roboto", sans-serif;
     color: #2e2f42;
     background-color: #fff;
-    list-style: none
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main-title{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
 }
 
 .Studio-logo{
     color: #4d5ae5;
 }
+
 .main-title:hover,
-.main-title:focus{
+.main-title:focus {
     color: #404bbf;
 }
-ul{
-    list-style-type: none
-}
+ address a {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+ }
+
+ address a:hover,
+ address a:focus{
+    color: #404bbf;
+ }
